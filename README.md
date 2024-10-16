@@ -5,9 +5,7 @@ It is mainly based on the code from the [textual inversion website](textual-inve
 
 If you find SO LM useful for your work please cite:
 ```
-@misc{under review,
-      doi = {arXiv:2406.00069},
-      url = {https://arxiv.org/pdf/2406.00069},
+@misc{
       author = {Amir Tavanaei, Kee Kiat Koo, Hayreddin Ceker, Shaobai Jiang, Qi Li, Julien Han, Karim Bouyarmane},
       title = {Structured Object Language Modeling (SoLM): Native Structured Objects Generation Conforming to Complex Schemas with Self-Supervised Denoising},
       publisher = {EMNLP},
