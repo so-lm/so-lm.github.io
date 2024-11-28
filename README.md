@@ -1,4 +1,4 @@
-# CABS LLM
+# Structured Objects Language Modeling (SoLM)
 
 This repository contains the source code for the [SOLM website](https://so-lm.github.io).
 It is mainly based on the code from the [textual inversion website](textual-inversion.github.io). If you reuse this code, please credit them.
